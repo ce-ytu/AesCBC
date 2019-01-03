@@ -1,0 +1,18 @@
+
+Openssl:
+--------
+sudo apt-get install openssl
+sudo apt-get install libssl-dev
+
+Qt5:
+----
+sudo apt-get install build-essential
+sudo apt-get install qtcreator
+sudo apt-get install qt5-default
+
+Optional Qt5 Docs:
+------------------
+sudo apt-get install qt5-doc
+sudo apt-get install qt5-doc-html qtbase5-doc-html
+sudo apt-get install qtbase5-examples
+
